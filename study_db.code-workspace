@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Pavel\\venv"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "localhost",
+				"username": "postgres",
+				"password": "qwe123",
+				"database": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "study_db",
+				"database": "study_db",
+				"username": "postgres",
+				"password": "qwe123"
+			}
+		]
+	}
+}
